@@ -1,0 +1,174 @@
+[
+    {
+        "period": 76,
+        "title": "六段",
+        "class": "C2",
+        "start_rank": 45,
+        "final_rank": 1,
+        "remark": "昇",
+        "win": 10,
+        "lose": 0,
+        "game": [
+            {
+                "detail": [
+                    {
+                        "round": 1
+                    },
+                    {
+                        "opponent": 259
+                    },
+                    {
+                        "sengo": "後"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 2
+                    },
+                    {
+                        "opponent": 176
+                    },
+                    {
+                        "sengo": "先"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 3
+                    },
+                    {
+                        "opponent": 284
+                    },
+                    {
+                        "sengo": "後"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 4
+                    },
+                    {
+                        "opponent": 271
+                    },
+                    {
+                        "sengo": "先"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 5
+                    },
+                    {
+                        "opponent": 295
+                    },
+                    {
+                        "sengo": "後"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 6
+                    },
+                    {
+                        "opponent": 138
+                    },
+                    {
+                        "sengo": "後"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 7
+                    },
+                    {
+                        "opponent": 302
+                    },
+                    {
+                        "sengo": "先"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 8
+                    },
+                    {
+                        "opponent": 212
+                    },
+                    {
+                        "sengo": "先"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 9
+                    },
+                    {
+                        "opponent": 301
+                    },
+                    {
+                        "sengo": "後"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            },
+            {
+                "detail": [
+                    {
+                        "round": 10
+                    },
+                    {
+                        "opponent": 294
+                    },
+                    {
+                        "sengo": "先"
+                    },
+                    {
+                        "result": "勝"
+                    }
+                ]
+            }
+        ]
+    }
+]
