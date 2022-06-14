@@ -10,164 +10,64 @@
         "lose_num": 0,
         "game": [
             {
-                "detail": [
-                    {
-                        "round": 1
-                    },
-                    {
-                        "opponent": "瀬川"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 1,
+                "opponent": "瀬川",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 2
-                    },
-                    {
-                        "opponent": "中田_功"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 2,
+                "opponent": "中田_功",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 3
-                    },
-                    {
-                        "opponent": "高見"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 3,
+                "opponent": "高見",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 4
-                    },
-                    {
-                        "opponent": "佐藤_慎"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 4,
+                "opponent": "佐藤_慎",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 5
-                    },
-                    {
-                        "opponent": "星野"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 5,
+                "opponent": "星野",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 6
-                    },
-                    {
-                        "opponent": "脇"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 6,
+                "opponent": "脇",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 7
-                    },
-                    {
-                        "opponent": "高野_智"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 7,
+                "opponent": "高野_智",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 8
-                    },
-                    {
-                        "opponent": "矢倉"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 8,
+                "opponent": "矢倉",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 9
-                    },
-                    {
-                        "opponent": "梶浦"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 9,
+                "opponent": "梶浦",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 10
-                    },
-                    {
-                        "opponent": "三枚堂"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 10,
+                "opponent": "三枚堂",
+                "turn": "先",
+                "result": "勝"
             }
         ]
     },
@@ -182,164 +82,64 @@
         "lose_num": 1,
         "game": [
             {
-                "detail": [
-                    {
-                        "round": 1
-                    },
-                    {
-                        "opponent": "森下"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 1,
+                "opponent": "森下",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 2
-                    },
-                    {
-                        "opponent": "豊川"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 2,
+                "opponent": "豊川",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 3
-                    },
-                    {
-                        "opponent": "西尾"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 3,
+                "opponent": "西尾",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 4
-                    },
-                    {
-                        "opponent": "青野"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 4,
+                "opponent": "青野",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 6
-                    },
-                    {
-                        "opponent": "千葉"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 6,
+                "opponent": "千葉",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 7
-                    },
-                    {
-                        "opponent": "増田_康"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 7,
+                "opponent": "増田_康",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 8
-                    },
-                    {
-                        "opponent": "門倉"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 8,
+                "opponent": "門倉",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 9
-                    },
-                    {
-                        "opponent": "富岡"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 9,
+                "opponent": "富岡",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 10
-                    },
-                    {
-                        "opponent": "近藤_誠"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "負"
-                    }
-                ]
+                "round": 10,
+                "opponent": "近藤_誠",
+                "turn": "先",
+                "result": "負"
             },
             {
-                "detail": [
-                    {
-                        "round": 11
-                    },
-                    {
-                        "opponent": "都成"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 11,
+                "opponent": "都成",
+                "turn": "後",
+                "result": "勝"
             }
         ]
     },
@@ -354,164 +154,64 @@
         "lose_num": 0,
         "game": [
             {
-                "detail": [
-                    {
-                        "round": 1
-                    },
-                    {
-                        "opponent": "村田_顕"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 1,
+                "opponent": "村田_顕",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 2
-                    },
-                    {
-                        "opponent": "堀口_一"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 2,
+                "opponent": "堀口_一",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 3
-                    },
-                    {
-                        "opponent": "金井"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 3,
+                "opponent": "金井",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 4
-                    },
-                    {
-                        "opponent": "高橋"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 4,
+                "opponent": "高橋",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 5
-                    },
-                    {
-                        "opponent": "宮本"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 5,
+                "opponent": "宮本",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 6
-                    },
-                    {
-                        "opponent": "青嶋"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 6,
+                "opponent": "青嶋",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 7
-                    },
-                    {
-                        "opponent": "船江"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 7,
+                "opponent": "船江",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 8
-                    },
-                    {
-                        "opponent": "小林_裕"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 8,
+                "opponent": "小林_裕",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 9
-                    },
-                    {
-                        "opponent": "高野_秀"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 9,
+                "opponent": "高野_秀",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 10
-                    },
-                    {
-                        "opponent": "真田"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 10,
+                "opponent": "真田",
+                "turn": "後",
+                "result": "勝"
             }
         ]
     },
@@ -526,164 +226,64 @@
         "lose_num": 0,
         "game": [
             {
-                "detail": [
-                    {
-                        "round": 1
-                    },
-                    {
-                        "opponent": "佐々木_勇"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 1,
+                "opponent": "佐々木_勇",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 2
-                    },
-                    {
-                        "opponent": "橋本_崇"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 2,
+                "opponent": "橋本_崇",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 3
-                    },
-                    {
-                        "opponent": "鈴木_大"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 3,
+                "opponent": "鈴木_大",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 4
-                    },
-                    {
-                        "opponent": "谷川"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 4,
+                "opponent": "谷川",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 6
-                    },
-                    {
-                        "opponent": "村山_慈"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 6,
+                "opponent": "村山_慈",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 7
-                    },
-                    {
-                        "opponent": "北浜"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 7,
+                "opponent": "北浜",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 8
-                    },
-                    {
-                        "opponent": "野月"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 8,
+                "opponent": "野月",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 9
-                    },
-                    {
-                        "opponent": "中村_修"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 9,
+                "opponent": "中村_修",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 10
-                    },
-                    {
-                        "opponent": "窪田"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 10,
+                "opponent": "窪田",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 11
-                    },
-                    {
-                        "opponent": "中村_太"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 11,
+                "opponent": "中村_太",
+                "turn": "先",
+                "result": "勝"
             }
         ]
     },
@@ -698,196 +298,76 @@
         "lose_num": 2,
         "game": [
             {
-                "detail": [
-                    {
-                        "round": 1
-                    },
-                    {
-                        "opponent": "三浦"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 1,
+                "opponent": "三浦",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 2
-                    },
-                    {
-                        "opponent": "稲葉"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "負"
-                    }
-                ]
+                "round": 2,
+                "opponent": "稲葉",
+                "turn": "後",
+                "result": "負"
             },
             {
-                "detail": [
-                    {
-                        "round": 3
-                    },
-                    {
-                        "opponent": "屋敷"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 3,
+                "opponent": "屋敷",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 4
-                    },
-                    {
-                        "opponent": "久保"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 4,
+                "opponent": "久保",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 5
-                    },
-                    {
-                        "opponent": "木村_一"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 5,
+                "opponent": "木村_一",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 6
-                    },
-                    {
-                        "opponent": "横山_泰"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 6,
+                "opponent": "横山_泰",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 7
-                    },
-                    {
-                        "opponent": "郷田"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 7,
+                "opponent": "郷田",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 8
-                    },
-                    {
-                        "opponent": "松尾"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 8,
+                "opponent": "松尾",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 9
-                    },
-                    {
-                        "opponent": "近藤_誠"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 9,
+                "opponent": "近藤_誠",
+                "turn": "後",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 11
-                    },
-                    {
-                        "opponent": "千田"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "負"
-                    }
-                ]
+                "round": 11,
+                "opponent": "千田",
+                "turn": "先",
+                "result": "負"
             },
             {
-                "detail": [
-                    {
-                        "round": 12
-                    },
-                    {
-                        "opponent": "阿久津"
-                    },
-                    {
-                        "turn": "先"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 12,
+                "opponent": "阿久津",
+                "turn": "先",
+                "result": "勝"
             },
             {
-                "detail": [
-                    {
-                        "round": 13
-                    },
-                    {
-                        "opponent": "佐々木_勇"
-                    },
-                    {
-                        "turn": "後"
-                    },
-                    {
-                        "result": "勝"
-                    }
-                ]
+                "round": 13,
+                "opponent": "佐々木_勇",
+                "turn": "後",
+                "result": "勝"
             }
         ]
     }
