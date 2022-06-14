@@ -15,7 +15,7 @@
                         "round": 1
                     },
                     {
-                        "opponent": 259
+                        "opponent": "瀬川"
                     },
                     {
                         "turn": "後"
@@ -31,7 +31,7 @@
                         "round": 2
                     },
                     {
-                        "opponent": 176
+                        "opponent": "中田_功"
                     },
                     {
                         "turn": "先"
@@ -47,7 +47,7 @@
                         "round": 3
                     },
                     {
-                        "opponent": 284
+                        "opponent": "高見"
                     },
                     {
                         "turn": "後"
@@ -63,7 +63,7 @@
                         "round": 4
                     },
                     {
-                        "opponent": 271
+                        "opponent": "佐藤_慎"
                     },
                     {
                         "turn": "先"
@@ -79,7 +79,7 @@
                         "round": 5
                     },
                     {
-                        "opponent": 295
+                        "opponent": "星野"
                     },
                     {
                         "turn": "後"
@@ -95,7 +95,7 @@
                         "round": 6
                     },
                     {
-                        "opponent": 138
+                        "opponent": "脇"
                     },
                     {
                         "turn": "後"
@@ -111,7 +111,7 @@
                         "round": 7
                     },
                     {
-                        "opponent": 302
+                        "opponent": "高野_智"
                     },
                     {
                         "turn": "先"
@@ -127,7 +127,7 @@
                         "round": 8
                     },
                     {
-                        "opponent": 212
+                        "opponent": "矢倉"
                     },
                     {
                         "turn": "先"
@@ -143,7 +143,7 @@
                         "round": 9
                     },
                     {
-                        "opponent": 301
+                        "opponent": "梶浦"
                     },
                     {
                         "turn": "後"
@@ -159,7 +159,7 @@
                         "round": 10
                     },
                     {
-                        "opponent": 294
+                        "opponent": "三枚堂"
                     },
                     {
                         "turn": "先"
@@ -187,7 +187,7 @@
                         "round": 1
                     },
                     {
-                        "opponent": 161
+                        "opponent": "森下"
                     },
                     {
                         "turn": "後"
@@ -203,7 +203,7 @@
                         "round": 2
                     },
                     {
-                        "opponent": 200
+                        "opponent": "豊川"
                     },
                     {
                         "turn": "先"
@@ -219,7 +219,7 @@
                         "round": 3
                     },
                     {
-                        "opponent": 248
+                        "opponent": "西尾"
                     },
                     {
                         "turn": "先"
@@ -235,7 +235,7 @@
                         "round": 4
                     },
                     {
-                        "opponent": 114
+                        "opponent": "青野"
                     },
                     {
                         "turn": "後"
@@ -251,7 +251,7 @@
                         "round": 6
                     },
                     {
-                        "opponent": 237
+                        "opponent": "千葉"
                     },
                     {
                         "turn": "先"
@@ -267,7 +267,7 @@
                         "round": 7
                     },
                     {
-                        "opponent": 297
+                        "opponent": "増田_康"
                     },
                     {
                         "turn": "後"
@@ -283,7 +283,7 @@
                         "round": 8
                     },
                     {
-                        "opponent": 282
+                        "opponent": "門倉"
                     },
                     {
                         "turn": "後"
@@ -299,7 +299,7 @@
                         "round": 9
                     },
                     {
-                        "opponent": 168
+                        "opponent": "富岡"
                     },
                     {
                         "turn": "先"
@@ -315,7 +315,7 @@
                         "round": 10
                     },
                     {
-                        "opponent": 303
+                        "opponent": "近藤_誠"
                     },
                     {
                         "turn": "先"
@@ -331,7 +331,7 @@
                         "round": 11
                     },
                     {
-                        "opponent": 304
+                        "opponent": "都成"
                     },
                     {
                         "turn": "後"
@@ -359,7 +359,7 @@
                         "round": 1
                     },
                     {
-                        "opponent": 267
+                        "opponent": "村田_顕"
                     },
                     {
                         "turn": "後"
@@ -375,7 +375,7 @@
                         "round": 2
                     },
                     {
-                        "opponent": 218
+                        "opponent": "堀口_一"
                     },
                     {
                         "turn": "先"
@@ -391,7 +391,7 @@
                         "round": 3
                     },
                     {
-                        "opponent": 265
+                        "opponent": "金井"
                     },
                     {
                         "turn": "後"
@@ -407,7 +407,7 @@
                         "round": 4
                     },
                     {
-                        "opponent": 142
+                        "opponent": "高橋"
                     },
                     {
                         "turn": "後"
@@ -423,7 +423,7 @@
                         "round": 5
                     },
                     {
-                        "opponent": 296
+                        "opponent": "宮本"
                     },
                     {
                         "turn": "先"
@@ -439,7 +439,7 @@
                         "round": 6
                     },
                     {
-                        "opponent": 300
+                        "opponent": "青嶋"
                     },
                     {
                         "turn": "先"
@@ -455,7 +455,7 @@
                         "round": 7
                     },
                     {
-                        "opponent": 281
+                        "opponent": "船江"
                     },
                     {
                         "turn": "後"
@@ -471,7 +471,7 @@
                         "round": 8
                     },
                     {
-                        "opponent": 223
+                        "opponent": "小林_裕"
                     },
                     {
                         "turn": "先"
@@ -487,7 +487,7 @@
                         "round": 9
                     },
                     {
-                        "opponent": 226
+                        "opponent": "高野_秀"
                     },
                     {
                         "turn": "先"
@@ -503,7 +503,7 @@
                         "round": 10
                     },
                     {
-                        "opponent": 202
+                        "opponent": "真田"
                     },
                     {
                         "turn": "後"
@@ -531,7 +531,7 @@
                         "round": 1
                     },
                     {
-                        "opponent": 280
+                        "opponent": "佐々木_勇"
                     },
                     {
                         "turn": "後"
@@ -547,7 +547,7 @@
                         "round": 2
                     },
                     {
-                        "opponent": 239
+                        "opponent": "橋本_崇"
                     },
                     {
                         "turn": "先"
@@ -563,7 +563,7 @@
                         "round": 3
                     },
                     {
-                        "opponent": 213
+                        "opponent": "鈴木_大"
                     },
                     {
                         "turn": "先"
@@ -579,7 +579,7 @@
                         "round": 4
                     },
                     {
-                        "opponent": 131
+                        "opponent": "谷川"
                     },
                     {
                         "turn": "後"
@@ -595,7 +595,7 @@
                         "round": 6
                     },
                     {
-                        "opponent": 249
+                        "opponent": "村山_慈"
                     },
                     {
                         "turn": "先"
@@ -611,7 +611,7 @@
                         "round": 7
                     },
                     {
-                        "opponent": 211
+                        "opponent": "北浜"
                     },
                     {
                         "turn": "後"
@@ -627,7 +627,7 @@
                         "round": 8
                     },
                     {
-                        "opponent": 221
+                        "opponent": "野月"
                     },
                     {
                         "turn": "先"
@@ -643,7 +643,7 @@
                         "round": 9
                     },
                     {
-                        "opponent": 143
+                        "opponent": "中村_修"
                     },
                     {
                         "turn": "後"
@@ -659,7 +659,7 @@
                         "round": 10
                     },
                     {
-                        "opponent": 210
+                        "opponent": "窪田"
                     },
                     {
                         "turn": "後"
@@ -675,7 +675,7 @@
                         "round": 11
                     },
                     {
-                        "opponent": 261
+                        "opponent": "中村_太"
                     },
                     {
                         "turn": "先"
@@ -703,7 +703,7 @@
                         "round": 1
                     },
                     {
-                        "opponent": 204
+                        "opponent": "三浦"
                     },
                     {
                         "turn": "先"
@@ -719,7 +719,7 @@
                         "round": 2
                     },
                     {
-                        "opponent": 269
+                        "opponent": "稲葉"
                     },
                     {
                         "turn": "後"
@@ -735,7 +735,7 @@
                         "round": 3
                     },
                     {
-                        "opponent": 189
+                        "opponent": "屋敷"
                     },
                     {
                         "turn": "後"
@@ -751,7 +751,7 @@
                         "round": 4
                     },
                     {
-                        "opponent": 207
+                        "opponent": "久保"
                     },
                     {
                         "turn": "先"
@@ -767,7 +767,7 @@
                         "round": 5
                     },
                     {
-                        "opponent": 222
+                        "opponent": "木村_一"
                     },
                     {
                         "turn": "先"
@@ -783,7 +783,7 @@
                         "round": 6
                     },
                     {
-                        "opponent": 246
+                        "opponent": "横山_泰"
                     },
                     {
                         "turn": "後"
@@ -799,7 +799,7 @@
                         "round": 7
                     },
                     {
-                        "opponent": 195
+                        "opponent": "郷田"
                     },
                     {
                         "turn": "後"
@@ -815,7 +815,7 @@
                         "round": 8
                     },
                     {
-                        "opponent": 231
+                        "opponent": "松尾"
                     },
                     {
                         "turn": "先"
@@ -831,7 +831,7 @@
                         "round": 9
                     },
                     {
-                        "opponent": 303
+                        "opponent": "近藤_誠"
                     },
                     {
                         "turn": "後"
@@ -847,7 +847,7 @@
                         "round": 11
                     },
                     {
-                        "opponent": 291
+                        "opponent": "千田"
                     },
                     {
                         "turn": "先"
@@ -863,7 +863,7 @@
                         "round": 12
                     },
                     {
-                        "opponent": 233
+                        "opponent": "阿久津"
                     },
                     {
                         "turn": "先"
@@ -879,7 +879,7 @@
                         "round": 13
                     },
                     {
-                        "opponent": 280
+                        "opponent": "佐々木_勇"
                     },
                     {
                         "turn": "後"
